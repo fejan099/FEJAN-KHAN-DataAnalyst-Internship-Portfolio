@@ -80,3 +80,18 @@ During this internship, I gained practical experience in:
 5. Validating analytical findings using statistics.
 6. Communicating insights through data storytelling.
 
+## About Me
+
+I am Fejan Khan, a B.Tech Artificial Intelligence & Data Science student interested in Data Analytics, SQL, Python, and Business Intelligence.
+
+I enjoy exploring data, solving analytical problems, and transforming raw data into meaningful business insights.
+
+## Connect With Me
+
+- **GitHub:** [FEJAN099](https://github.com/fejan099)
+- **LinkedIn:** [Fejan Khan](https://www.linkedin.com/in/fejan-khan/)
+
+---
+
+**Thank you for visiting my internship portfolio!**
+
