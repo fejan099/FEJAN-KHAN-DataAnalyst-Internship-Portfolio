@@ -27,6 +27,7 @@ Throughout this internship, I worked on real-world data analytics tasks involvin
 - Data cleaning and preprocessing.
 - Data quality assessment.
 
+
 ### Task 2 – Exploratory Data Analysis & Business Intelligence
 - Exploratory Data Analysis (EDA).
 - SQL-based business analysis.
@@ -44,4 +45,33 @@ Practical data analysis and visualization work completed during the internship.
 - Statistical hypothesis testing.
 - Data visualization and business insights.
 - Analytical presentation and reporting.
+
+## Technical Skills & Tools
+
+### Technical Skills
+- Data Cleaning & Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL Queries & Data Analysis
+- Data Visualization
+- Statistical Analysis
+- Business Intelligence
+- Data Storytelling
+- Dashboard Development
+
+### Tools & Technologies
+- Microsoft Excel
+- SQL
+- Microsoft Power BI
+- GitHub
+
+## Key Learnings
+
+During this internship, I gained practical experience in:
+
+1. Understanding and preparing raw datasets.
+2. Identifying patterns and trends through EDA.
+3. Using SQL to analyze business data.
+4. Building visual dashboards and reports.
+5. Validating analytical findings using statistics.
+6. Communicating insights through data storytelling.
 
