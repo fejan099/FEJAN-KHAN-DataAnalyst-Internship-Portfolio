@@ -26,7 +26,8 @@ Throughout this internship, I worked on real-world data analytics tasks involvin
 - Data understanding and exploration.
 - Data cleaning and preprocessing.
 - Data quality assessment.
-
+- 
+**GitHub Repository:** [ApexPlanet Task 1](https://github.com/fejan099/ApexPlanet-Data-Analytics-Interns-hip)
 
 ### Task 2 – Exploratory Data Analysis & Business Intelligence
 - Exploratory Data Analysis (EDA).
@@ -34,17 +35,21 @@ Throughout this internship, I worked on real-world data analytics tasks involvin
 - Univariate and multivariate analysis.
 - Business Intelligence dashboard mockup.
 
-**GitHub Repository:** [ApexPlanet Task 2](https://github.com/fejan099/ApexPlanet-Data-Analytics-Interns-hip)
+**GitHub Repository:** [ApexPlanet Task 2](https://github.com/fejan099/task-2-eda-business-intelligence)
 
 ### Task 3 – Data Analysis & Visualization
 
 Practical data analysis and visualization work completed during the internship.
+
+**GitHub Repository:** [ApexPlanet Task 3](https://github.com/fejan099/Task-3-Deep-Drive-Analysis-Interactive-Dashboarding)
 
 ### Task 4 – Data Storytelling & Statistical Validation
 - Discount vs Average Profit Margin analysis.
 - Statistical hypothesis testing.
 - Data visualization and business insights.
 - Analytical presentation and reporting.
+
+ **GitHub Repository:** [ApexPlanet Task 4](https://github.com/fejan099/ApexPlanet-Task4-Data-Storytelling)
 
 ## Technical Skills & Tools
 
