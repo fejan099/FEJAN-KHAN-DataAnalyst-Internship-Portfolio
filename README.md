@@ -20,3 +20,28 @@ Throughout this internship, I worked on real-world data analytics tasks involvin
 - Create interactive dashboards and visual reports.
 - Present analytical findings through data storytelling.
 
+## Internship Projects
+
+### Task 1 – Data Immersion & Wrangling
+- Data understanding and exploration.
+- Data cleaning and preprocessing.
+- Data quality assessment.
+
+### Task 2 – Exploratory Data Analysis & Business Intelligence
+- Exploratory Data Analysis (EDA).
+- SQL-based business analysis.
+- Univariate and multivariate analysis.
+- Business Intelligence dashboard mockup.
+
+**GitHub Repository:** [ApexPlanet Task 2](https://github.com/fejan099/ApexPlanet-Data-Analytics-Interns-hip)
+
+### Task 3 – Data Analysis & Visualization
+
+Practical data analysis and visualization work completed during the internship.
+
+### Task 4 – Data Storytelling & Statistical Validation
+- Discount vs Average Profit Margin analysis.
+- Statistical hypothesis testing.
+- Data visualization and business insights.
+- Analytical presentation and reporting.
+
