@@ -89,7 +89,7 @@ I enjoy exploring data, solving analytical problems, and transforming raw data i
 ## Connect With Me
 
 - **GitHub:** [FEJAN099](https://github.com/fejan099)
-- **LinkedIn:** [Fejan Khan](https://www.linkedin.com/in/fejan-khan/)
+- **LinkedIn:** [Fejan Khan](https://www.linkedin.com/in/fejan-khan-8503642b5)
 
 ---
 
